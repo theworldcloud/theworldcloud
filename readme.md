@@ -2,7 +2,7 @@
     <b>Hi there</b>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     <br> 
-    <p style="font-size: 17pt; margin-top: 15px;">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
+    <p style="font-size: 15pt; margin-top: 15px;">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
 </h1>
 
 <h3 align="center">15 year old boy, who programming/coding in his free time.</h3>
@@ -18,7 +18,7 @@
 <hr>
 
 
-## <p align="center"><b>Skills 💪</b></p>
+## <b>Skills 💪</b>
 <h2 align="center" style="border-bottom: none;"></h2>
 <br>
 
