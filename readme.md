@@ -1,15 +1,11 @@
-<p style="font-size: 23pt;" align="center">
-    <b >Hi there</b>
+<h1 align="center">
+    <b>Hi there</b>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-    <br>  
-</p>
-<p style="font-size: 20pt;" align="center">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
+    <br> 
+    <p style="font-size: 17pt; margin-top: 15px;">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
+</h1>
 
-<br>
-<hr>
-<br>
-
-<p style="font-size: 13pt;" align="center">15 year old boy, who programming/coding in his free time.</p>
+<h3 align="center">15 year old boy, who programming/coding in his free time.</h3>
 
 <br>
 
@@ -21,22 +17,22 @@
 <br>
 <hr>
 
-<br>
-<p style="font-size: 14pt;" align="center"><b>Skills 💪</b></p>
+<h2 align="center"><b>Skills 💪</b></h2>
 <br>
 
 <div align="center">
     <p style="font-size: 12.25pt"><b>Languages</b></p>
     <!-- JavaScript --> <img alt="JavaScript" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px">
-    <!-- TypeScript --> <img alt="TypeScript" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px">
-    <!-- C# --> <img alt="C#" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40px">
+    <!-- TypeScript <img alt="TypeScript" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px"> -->
+    <!-- C#  <img alt="C#" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/ csharp-original.svg" width="40px"> -->
     <!-- HTML --> <img alt="HTML" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px">
     <!-- CSS --> <img alt="CSS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px">
     <!-- SASS --> <img alt="SASS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px">
-    <!-- Python --> <img alt="PYTHON" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px">
+    <!-- Python  <img alt="PYTHON" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"> -->
     <!-- LUA --> <img alt="LUA" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40px">
 </div>
 
+<br>
 <br>
 
 <div align="center">
@@ -47,6 +43,7 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
     <p style="font-size: 12.25pt"><b>Database Languages</b></p>
@@ -54,6 +51,7 @@
     <!-- MongoDB --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40px">
 </div>
 
+<br>
 <br>
 
 <div align="center">
