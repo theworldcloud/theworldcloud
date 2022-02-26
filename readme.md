@@ -1,4 +1,4 @@
-<p style="font-size: 17pt;" align="center">
+<p style="font-size: 20pt;" align="center">
     <b >Hi there</b>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     <br>  
