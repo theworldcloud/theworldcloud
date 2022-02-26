@@ -1,9 +1,9 @@
-<p style="font-size: 20pt;" align="center">
+<p style="font-size: 23pt;" align="center">
     <b >Hi there</b>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     <br>  
 </p>
-<p style="font-size: 15.5pt;" align="center">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
+<p style="font-size: 20pt;" align="center">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
 
 <br>
 <hr>
