@@ -17,7 +17,7 @@
 <br>
 <hr>
 
-<h2 align="center"><b>Skills 💪</b></h2>
+<h2 align="center" style="border-bottom: none;"><b>Skills 💪</b></h2>
 <br>
 
 <div align="center">
