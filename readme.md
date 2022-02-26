@@ -15,8 +15,6 @@
 </div>
 
 <br>
-<hr>
-
 <h2 align="center"><b>Skills 💪</b></h2>
 <br>
 
