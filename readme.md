@@ -22,7 +22,7 @@
     <p style="font-size: 12.25pt"><b>Languages</b></p>
     <!-- JavaScript --> <img alt="JavaScript" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px">
     <!-- TypeScript --> <img alt="TypeScript" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px">
-    <!-- C#  <img alt="C#" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/ csharp-original.svg" width="40px"> -->
+    <!-- C# --> <img alt="C#" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/ csharp-original.svg" width="40px">
     <!-- HTML --> <img alt="HTML" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px">
     <!-- CSS --> <img alt="CSS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px">
     <!-- SASS --> <img alt="SASS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px">
