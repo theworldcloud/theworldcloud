@@ -56,4 +56,5 @@
     <p style="font-size: 12.25pt"><b>Tools</b></p>
     <!-- Visual Studio --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40px">
     <!-- Visual Studio Code --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40px">
+    <!-- Intellij Idea 2021 --> <img style="margin-left: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40px">
 </div>
