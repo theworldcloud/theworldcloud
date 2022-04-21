@@ -28,6 +28,7 @@
     <!-- SASS --> <img alt="SASS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px">
     <!-- Python  <img alt="PYTHON" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"> -->
     <!-- LUA --> <img alt="LUA" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40px">
+    <!-- PHP --> <img alt="PHP" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px">
 </div>
 
 <br>
