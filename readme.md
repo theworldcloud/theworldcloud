@@ -26,7 +26,7 @@
     <!-- HTML --> <img alt="HTML" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px">
     <!-- CSS --> <img alt="CSS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px">
     <!-- SASS --> <img alt="SASS" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px">
-    <!-- Python  <img alt="PYTHON" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"> -->
+    <!-- Python --> <img alt="PYTHON" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px">
     <!-- LUA --> <img alt="LUA" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40px">
     <!-- PHP --> <img alt="PHP" style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px">
 </div>
@@ -39,7 +39,6 @@
     <!-- dotnet --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="40px">
     <!-- ReactJS --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px">
     <!-- NextJS --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40px">
-    
     <!-- node.js --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40px">
 </div>
 
