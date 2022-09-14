@@ -38,6 +38,8 @@
     <p style="font-size: 12.25pt"><b>Libraries and Frameworks</b></p>
     <!-- dotnet --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="40px">
     <!-- ReactJS --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px">
+    <!-- NextJS --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40px">
+    
     <!-- node.js --> <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40px">
 </div>
 
