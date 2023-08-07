@@ -5,7 +5,7 @@
     <p style="font-size: 17pt; margin-top: 15px;">I'm <u>Mathias Sørensen</u> aka <u>theworldcloud</u></p>
 </h1>
 
-<h3 align="center">I'm 16 years old.</h3>
+<h3 align="center">I'm 17 years old.</h3>
 <h3 align="center">Self-taught Full Stack Developer.</h3>
 <br>
 <h3 align="center">Go visit my website</h3>
